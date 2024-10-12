@@ -1,3 +1,5 @@
+## Alvian Totonafo Mendrofa - 20220801045
+
 # Prediksi Kelulusan Siswa Berdasarkan Jam Belajar dan Tidur
 
 ## Deskripsi Proyek
